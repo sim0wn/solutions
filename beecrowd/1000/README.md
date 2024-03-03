@@ -1,6 +1,6 @@
 # Hello World!
 
-* Desafio [1001](https://judge.beecrowd.com/pt/problems/view/1000)
+* Desafio [1000](https://judge.beecrowd.com/pt/problems/view/1000)
 * Categoria Iniciante
 
 ## Descrição
