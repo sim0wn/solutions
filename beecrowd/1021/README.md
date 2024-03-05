@@ -44,5 +44,6 @@ Tendo essa lógica em mente, o código do programa deverá seguir o seguinte flu
 > calcula o resto da divisão do valor de entrada por 100 e divide por 50;<br>
 > e repete sucessivamente com as outras unidades possíveis.:
 
+Um cuidado a se tomar é que a entrada do programa é em valor de ponto flutuante, então é recomendável transformar tudo para centavos antes de realizar as operações. Dessa forma, se trabalha apenas com inteiros e o resto da divisão é mais preciso.
 
 * [Python](main.py)
